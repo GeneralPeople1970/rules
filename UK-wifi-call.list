@@ -1,0 +1,11 @@
+# 地区检测
+DOMAIN-KEYWORD, ssl.ls.apple
+# 沃达丰
+DOMAIN-SUFFIX, 3gppnetwork.org
+DOMAIN-SUFFIX, entsrv-uk.vodafone.com
+DOMAIN-SUFFIX, vuk-gto.prod.ondemandconnectivity.com
+IP-CIDR,88.82.0.0/19
+# CMLinkUK EE
+IP-CIDR,46.68.0.0/17
+# Giffgaff
+IP-CIDR,87.194.0.0/16
