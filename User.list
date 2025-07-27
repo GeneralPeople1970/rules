@@ -2,6 +2,3 @@
 DOMAIN-SUFFIX, sta525.jjc.edu
 DOMAIN-SUFFIX, outlook.office365
 DOMAIN, login.microsoftonline.com
-
-# Apple规则
-DOMAIN-KEYWORD,apple
