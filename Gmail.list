@@ -2,3 +2,5 @@
 DOMAIN-SUFFIX, sta525.jjc.edu
 DOMAIN-SUFFIX, outlook.office365
 DOMAIN, login.microsoftonline.com
+DOMAIN-SUFFIX, captchafox.com
+DOMAIN-SUFFIX, mail.com
